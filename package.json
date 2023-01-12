@@ -1,5 +1,9 @@
 {
 	"author" : "Alan Calvillo",
+	"description": "This is just a dumb description for whomever dare to ask what is about.",
+	"keywords": ["js","freecodecamp","demo"],
+	"license": "MIT",
+	"version": "0.0.1",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
